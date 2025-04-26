@@ -1,8 +1,12 @@
-## Hi everyone!👋 I'm Serhii 
+<!--## Hi everyone!👋 I'm Serhii 
 Full-Stack Web Developer
+<hr />
 ## About me:
+<hr />
 ## My stack and tools :
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<hr />
+
+## ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <!--
 **ITStupak/ITStupak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
